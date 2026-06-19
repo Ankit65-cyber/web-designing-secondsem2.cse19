@@ -1,0 +1,16 @@
+body{
+    scroll-behavior:smooth;
+}
+
+.program-card{
+    transition:0.3s;
+    cursor:pointer;
+}
+
+.program-card:hover{
+    transform:translateY(-8px);
+}
+
+footer{
+    margin-top:20px;
+}
