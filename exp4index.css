@@ -1,0 +1,35 @@
+body{
+    margin:0;
+    font-family:Arial, sans-serif;
+    background-color:#f4f4f4;
+}
+
+/* Header */
+.header{
+    background:#2d7be5;
+    color:white;
+    text-align:center;
+    padding:25px;
+}
+
+/* Content Boxes */
+.content-box{
+    background:white;
+    padding:20px;
+    border-radius:10px;
+    margin:10px;
+    box-shadow:0 0 10px rgba(0,0,0,0.2);
+}
+
+.content-box h2{
+    color:#2d7be5;
+}
+
+/* Footer */
+.footer{
+    background:#333;
+    color:white;
+    text-align:center;
+    padding:15px;
+    margin-top:20px;
+}
